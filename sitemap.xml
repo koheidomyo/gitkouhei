@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.hoborg.com/starters/01/index.html</loc>
+    <lastmod>2017-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/01/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hoborg.com/starters/01/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/01/portfolio.html</loc>
+    <lastmod>2017-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/01/phone/portfolio.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hoborg.com/starters/01/tablet/portfolio.html"/>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_00-crop-u694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_03-crop-u2031.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_02-crop-u2022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_06-crop-u2058.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_01-crop-u2013.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_04-crop-u2040.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_05-crop-u2049.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hoborg.com/starters/01/images/work_07-crop-u2067.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/01/my-story.html</loc>
+    <lastmod>2017-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/01/phone/my-story.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hoborg.com/starters/01/tablet/my-story.html"/>
+  </url>
+  <url>
+    <loc>http://www.hoborg.com/starters/01/contact.html</loc>
+    <lastmod>2017-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hoborg.com/starters/01/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hoborg.com/starters/01/tablet/contact.html"/>
+  </url>
+</urlset>

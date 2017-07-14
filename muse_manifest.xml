@@ -1,0 +1,255 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hoborg.com/starters/01" resolutions="1x" timestamp="1498619118453">
+  <folder name="css">
+    <file name="site_global.css" crc="3995650704"/>
+    <file name="master_a-master.css" crc="117988012" ref="index:portfolio:contact:my-story"/>
+    <file name="index.css" crc="4158319369" ref="index"/>
+    <file name="portfolio.css" crc="4139504143" ref="portfolio"/>
+    <file name="contact.css" crc="351967728" ref="contact"/>
+    <file name="my-story.css" crc="4273430882" ref="my-story"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="museconfig.js" crc="4273287925" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:phone>my-story:tablet>index:tablet>my-story:index:my-story"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:portfolio:my-story:contact"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>portfolio:phone>contact:tablet>index:tablet>portfolio:tablet>contact:index:portfolio:contact"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>portfolio:tablet>index:tablet>portfolio:index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>portfolio:tablet>index:tablet>portfolio:index:portfolio"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>portfolio:tablet>index:tablet>portfolio:index:portfolio"/>
+    <file name="form_check.php" crc="4286608207" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="313199896" ref="phone>contact"/>
+    <file name="form_process.php" crc="3855659497" ref="phone>contact"/>
+    <file name="form-u1843.php" crc="3925932168" ref="phone>contact"/>
+    <file name="form-u4111.php" crc="46133059" ref="tablet>contact"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index:portfolio:my-story:contact"/>
+    <file name="form-u1114.php" crc="180325632" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pen_01-u1556-fr.jpg" crc="38352750" ref="phone>index"/>
+    <file name="pen_04.jpg" crc="3934762509" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pen_05.jpg" crc="4205624203" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3693.png" crc="61380839" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3693-r.png" crc="4012575802" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3697.png" crc="4226261981" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3697-r.png" crc="4089420724" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3695.png" crc="69209232" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3695-r.png" crc="3806603889" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="work_00-crop-u1692.jpg" crc="4073045145" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>portfolio:tablet>portfolio:portfolio"/>
+    <file name="work_01-crop-u2135.jpg" crc="3904549588" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_02-crop-u2144.jpg" crc="140083862" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_03-crop-u2153.jpg" crc="4061061978" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_04-crop-u2162.jpg" crc="4036515871" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_05-crop-u2171.jpg" crc="3998003585" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_06-crop-u2180.jpg" crc="4037422235" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_07-crop-u2189.jpg" crc="296317719" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="phone>portfolio:tablet>portfolio:index:portfolio:my-story:contact">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>portfolio:tablet>portfolio:portfolio"/>
+    <file name="pen_06-u1839-fr.jpg" crc="3923043270" ref="phone>my-story"/>
+    <file name="pen_01.jpg" crc="160798044" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pen_02.jpg" crc="246221640" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pen_03.jpg" crc="4093020180" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3683.png" crc="61380839" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3683-r.png" crc="4012575802" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3687.png" crc="4226261981" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3687-r.png" crc="4089420724" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3685.png" crc="69209232" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3685-r.png" crc="3806603889" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="work_00702x479.jpg" crc="3801519074" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_03.jpg" crc="4265294659" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_02.jpg" crc="4093013131" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_06.jpg" crc="4060898783" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_01.jpg" crc="4269102535" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_04.jpg" crc="4088456810" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_05.jpg" crc="145248940" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_07.jpg" crc="64109336" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_00-crop-u2607.jpg" crc="7954527" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_03-crop-u2609.jpg" crc="151713305" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_02-crop-u2613.jpg" crc="4082354011" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_06-crop-u2621.jpg" crc="4231275034" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_01-crop-u2619.jpg" crc="4276212714" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_04-crop-u2611.jpg" crc="4053438840" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_05-crop-u2617.jpg" crc="3939363664" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_07-crop-u2615.jpg" crc="18105903" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_close.png" crc="206776778" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pen_06.jpg" crc="96715823" ref="tablet>my-story:my-story">
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="img_2428.jpg" crc="198790087" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2208.jpg" crc="222508396" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2271.jpg" crc="4105177407" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2269.jpg" crc="256535951" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3289.jpg" crc="531731076" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2583.jpg" crc="152910262" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="差別.jpg" crc="3867917552" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3819.jpg" crc="157948752" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="masuku 進行管理.jpg" crc="387802114" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask .jpg" crc="3997816596" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2428-u5890-fr.jpg" crc="327583297" ref="index"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index:portfolio:my-story:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3665.png" crc="4226261981" ref="index:portfolio:my-story:contact"/>
+    <file name="u3665-r.png" crc="4089420724" ref="index:portfolio:my-story:contact"/>
+    <file name="u3667.png" crc="61380839" ref="index:portfolio:my-story:contact"/>
+    <file name="u3667-r.png" crc="4012575802" ref="index:portfolio:my-story:contact"/>
+    <file name="u3669.png" crc="69209232" ref="index:portfolio:my-story:contact"/>
+    <file name="u3669-r.png" crc="3806603889" ref="index:portfolio:my-story:contact"/>
+    <file name="work_00-crop-u694.jpg" crc="7954527" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_03-crop-u2031.jpg" crc="151713305" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_02-crop-u2022.jpg" crc="4082354011" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_06-crop-u2058.jpg" crc="4231275034" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_01-crop-u2013.jpg" crc="4276212714" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_04-crop-u2040.jpg" crc="4053438840" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_05-crop-u2049.jpg" crc="3939363664" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_07-crop-u2067.jpg" crc="18105903" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4012817394" ref="tablet>contact:tablet>my-story:tablet>portfolio:tablet>index"/>
+      <file name="contact.css" crc="71827569" ref="tablet>contact"/>
+      <file name="my-story.css" crc="4051659191" ref="tablet>my-story"/>
+      <file name="portfolio.css" crc="4290315613" ref="tablet>portfolio"/>
+      <file name="index.css" crc="160259278" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="217905007" seo="true" mt="1498372054464" redirect="true"/>
+    <file name="portfolio.html" crc="41428864" seo="true" mt="1498372054464" redirect="true"/>
+    <file name="my-story.html" crc="467468265" seo="true" mt="1498372054464" redirect="true"/>
+    <file name="contact.html" crc="4193767356" seo="true" mt="1498372054464" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="277019488" ref="phone>my-story:phone>contact:phone>index:phone>portfolio"/>
+      <file name="my-story.css" crc="3916213991" ref="phone>my-story"/>
+      <file name="contact.css" crc="4220740261" ref="phone>contact"/>
+      <file name="index.css" crc="4147147678" ref="phone>index"/>
+      <file name="portfolio.css" crc="3845942112" ref="phone>portfolio"/>
+    </folder>
+    <file name="index.html" crc="193331313" seo="true" mt="1498372054466" redirect="true"/>
+    <file name="portfolio.html" crc="3931004351" seo="true" mt="1498372054466" redirect="true"/>
+    <file name="my-story.html" crc="3928034499" seo="true" mt="1498372054466" redirect="true"/>
+    <file name="contact.html" crc="4147782491" seo="true" mt="1498372054466" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4066763586" seo="true" mt="1498618729669" redirect="true"/>
+  <file name="portfolio.html" crc="3783569136" seo="true" mt="1498378034158" redirect="true"/>
+  <file name="my-story.html" crc="22549451" seo="true" mt="1498378034158" redirect="true"/>
+  <file name="contact.html" crc="4020022149" seo="true" mt="1498378034158" redirect="true"/>
+</manifest>
